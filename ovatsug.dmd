@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ovatsug" id="B9E40A4D-2AB6-A6A4-DAE7-AA28F13E6EA2" version="3.5">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2024-05-03 12:15:08 UTC</createdTime>
+<ownerDesignName>ovatsug</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>B9E40A4D-2AB6-A6A4-DAE7-AA28F13E6EA2</designId>
+</OSDM_Design>
